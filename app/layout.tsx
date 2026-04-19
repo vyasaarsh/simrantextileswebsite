@@ -11,24 +11,11 @@ export const metadata: Metadata = {
   title: 'Simran Textiles - Quality Clothing Manufacturing',
   description: 'Leading manufacturer of quality textiles with a commitment to sustainability and excellence.',
   viewport: 'width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes',
-  generator: 'v0.app',
   icons: {
     icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
+      icon: '/favicon.ico',
+      apple: '/apple-touch-icon.png',
       },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export default function RootLayout({
