@@ -6,12 +6,12 @@ import { Menu, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 const navItems = [
-  {/*{ name: "Home", href: "/" },*/}
+  //{/*{ name: "Home", href: "/" },*/}
   { name: "About Us", href: "/about" },
   { name: "Manufacturing", href: "/manufacturing" },
   { name: "Certifications", href: "/certifications" },
   { name: "Clients", href: "/clients" },
-  {/*{ name: "Contact", href: "/contact" },*/}
+  //{/*{ name: "Contact", href: "/contact" },*/}
 ]
 
 export function Navbar() {
