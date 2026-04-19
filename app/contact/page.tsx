@@ -117,15 +117,14 @@ export default function ContactPage() {
         <div className="container mx-auto px-4 lg:px-8">
           <Card className="border-2 shadow-xl overflow-hidden">
             <CardContent className="p-0">
-              <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.406681283285!2d72.33988247567582!3d23.00883551684005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e99004b7dfd9f%3A0x772661a1411688d4!2sSIMRAN%20TEXTILE!5e0!3m2!1sen!2sin!4v1776589536817!5m2!1sen!2sin" 
-                width="100%" 
-                height="500" 
-                style="border:0;" 
-                allowfullscreen="" 
-                loading="lazy" 
-                referrerpolicy="no-referrer-when-downgrade">
-              </iframe>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d459.0508517373922!2d72.34201694305278!3d23.008830644593665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e99699f4cf651%3A0x7e2b1d6e2d09d631!2smamta%20industries!5e0!3m2!1sen!2sin!4v1773304981152!5m2!1sen!2sin"
+                width="100%"
+                height="500"
+                style={{ border: 0 }}
+                allowFullScreen=""
+                loading="lazy"
+              ></iframe>
             </CardContent>
           </Card>
         </div>
