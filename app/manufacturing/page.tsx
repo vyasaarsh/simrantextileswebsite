@@ -153,7 +153,7 @@ export default function ManufacturingPage() {
       </section>
 
       {/* Our Machines */}
-      <section className="bg-muted/30 py-20 lg:py-28">
+      {/*<section className="bg-muted/30 py-20 lg:py-28">
         <div className="container mx-auto px-4 lg:px-8">
           <div className="mb-16 text-center">
             <h2 className="mb-4 text-4xl font-bold text-foreground lg:text-5xl">Advanced Machinery</h2>
@@ -163,7 +163,7 @@ export default function ManufacturingPage() {
           </div>
 
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {/* Machine 1 */}
+            /* Machine 1
             <Card className="overflow-hidden border-2 transition-all hover:border-primary hover:shadow-lg">
               <div className="relative h-48 overflow-hidden">
                 <img
@@ -192,7 +192,7 @@ export default function ManufacturingPage() {
               </CardContent>
             </Card>
 
-            {/* Machine 2 */}
+            {/* Machine 2
             <Card className="overflow-hidden border-2 transition-all hover:border-primary hover:shadow-lg">
               <div className="relative h-48 overflow-hidden">
                 <img
@@ -221,7 +221,7 @@ export default function ManufacturingPage() {
               </CardContent>
             </Card>
 
-            {/* Machine 3 */}
+            {/* Machine 3
             <Card className="overflow-hidden border-2 transition-all hover:border-primary hover:shadow-lg">
               <div className="relative h-48 overflow-hidden">
                 <img
@@ -250,7 +250,7 @@ export default function ManufacturingPage() {
               </CardContent>
             </Card>
 
-            {/* Machine 4 */}
+            {/* Machine 4 
             <Card className="overflow-hidden border-2 transition-all hover:border-primary hover:shadow-lg">
               <div className="relative h-48 overflow-hidden">
                 <img
@@ -279,7 +279,7 @@ export default function ManufacturingPage() {
               </CardContent>
             </Card>
 
-            {/* Machine 5 */}
+            {/* Machine 5
             <Card className="overflow-hidden border-2 transition-all hover:border-primary hover:shadow-lg">
               <div className="relative h-48 overflow-hidden">
                 <img
@@ -307,7 +307,7 @@ export default function ManufacturingPage() {
               </CardContent>
             </Card>
 
-            {/* Machine 6 */}
+            {/* Machine 6 
             <Card className="overflow-hidden border-2 transition-all hover:border-primary hover:shadow-lg">
               <div className="relative h-48 overflow-hidden">
                 <img
@@ -351,7 +351,7 @@ export default function ManufacturingPage() {
 
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
             {/* Video 1 */}
-            <div className="group relative overflow-hidden rounded-xl bg-muted">
+            {/*<div className="group relative overflow-hidden rounded-xl bg-muted">
               <div className="aspect-video">
                 <img
                   src="/textile-factory-workers-operating-machines.jpg"
@@ -371,7 +371,7 @@ export default function ManufacturingPage() {
             </div>
 
             {/* Video 2 */}
-            <div className="group relative overflow-hidden rounded-xl bg-muted">
+            {/*<div className="group relative overflow-hidden rounded-xl bg-muted">
               <div className="aspect-video">
                 <img
                   src="/automated-cutting-process-demonstration.jpg"
@@ -390,8 +390,8 @@ export default function ManufacturingPage() {
               </div>
             </div>
 
-            {/* Video 3 */}
-            <div className="group relative overflow-hidden rounded-xl bg-muted">
+            {/* Video 3 */
+            /*<div className="group relative overflow-hidden rounded-xl bg-muted">
               <div className="aspect-video">
                 <img
                   src="/quality-control-inspection-process.jpg"
@@ -411,7 +411,7 @@ export default function ManufacturingPage() {
             </div>
           </div>
         </div>
-      </section>
+      </section>}
 
       {/* CTA Section */}
       <section className="bg-primary py-20 text-primary-foreground">
