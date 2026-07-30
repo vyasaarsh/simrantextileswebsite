@@ -8,8 +8,6 @@ export default function ClientsPage() {
     { name: "Vedic", country: "India", logo: "/clientlogos/vedic.jpg" },
     { name: "Max", country: "India", logo: "/clientlogos/max.jpg" },
     { name: "Baazar Kolkata", country: "India", logo: "/clientlogos/bazarkolkota.jpg" },
-    { name: "EasyBuy", country: "India", logo: "/clientlogos/easybuy.jpg" },
-    { name: "Melange", country: "India", logo: "/clientlogos/melange.jpg" },
     { name: "Style Baazar", country: "India", logo: "/clientlogos/stylebaazar.jpg" },
     { name: "VMart", country: "India", logo: "/clientlogos/vmart.jpg" },
   ]
