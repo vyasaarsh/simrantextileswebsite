@@ -54,7 +54,7 @@ export default function ClientsPage() {
               </div>
 
               {/* Clients Grid */}
-              <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 xl:grid-cols-7">
+              <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
                 {clients.map((client, index) => (
                   <Card
                     key={index}
