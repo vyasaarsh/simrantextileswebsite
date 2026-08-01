@@ -14,8 +14,6 @@ export default function HomePage() {
     { name: "Vedic", logo: "/clientlogos/vedic.jpg" },
     { name: "Max", logo: "/clientlogos/max.jpg" },
     { name: "Baazar Kolkata", logo: "/clientlogos/bazarkolkota.jpg" },
-    { name: "EasyBuy", logo: "/clientlogos/easybuy.jpg" },
-    { name: "Melange", logo: "/clientlogos/melange.jpg" },
     { name: "Style Baazar", logo: "/clientlogos/stylebaazar.jpg" },
     { name: "VMart", logo: "/clientlogos/vmart.jpg" },
   ]
